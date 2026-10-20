@@ -1,0 +1,17 @@
+{
+  "name": "HAUL",
+  "short_name": "HAUL",
+  "description": "Plan Facebook Marketplace pickups: capture listings, sort by the minute they were listed, map them and build a timed pickup route.",
+  "id": "./",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#17191C",
+  "theme_color": "#17191C",
+  "categories": ["shopping", "navigation", "productivity"],
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png" },
+    { "src": "icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
